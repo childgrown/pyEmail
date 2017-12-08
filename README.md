@@ -43,7 +43,7 @@ Python实现发送邮件http://www.jianshu.com/p/96b1d1f5844a
 
 
 交互式邮件存取协议（Internet Mail Access Protocol，IMAP）
-
+---
 
   1、它是跟POP3类似邮件访问标准协议之一.
   
@@ -52,7 +52,7 @@ Python实现发送邮件http://www.jianshu.com/p/96b1d1f5844a
   3、一句总结：它用来**收取邮件**
   
 链接：http://www.jianshu.com/p/96b1d1f5844a
----
+
 
 未完待续
 
