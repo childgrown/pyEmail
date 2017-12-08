@@ -20,6 +20,7 @@ Python实现发送邮件http://www.jianshu.com/p/96b1d1f5844a
 
 
 之前就是混淆了imap和smtp造成了混乱。
+---
 
 简单邮件传输协议（Simple Mail Transfer Protocol, SMTP）
 
@@ -36,7 +37,7 @@ Python实现发送邮件http://www.jianshu.com/p/96b1d1f5844a
   6、一句总结：它用来**发送邮件**
   
 链接：https://zh.wikipedia.org/wiki/%E7%AE%80%E5%8D%95%E9%82%AE%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE
-
+---
 
 交互式邮件存取协议（Internet Mail Access Protocol，IMAP）
 
@@ -47,7 +48,7 @@ Python实现发送邮件http://www.jianshu.com/p/96b1d1f5844a
   3、一句总结：它用来**收取邮件**
   
 链接：http://www.jianshu.com/p/96b1d1f5844a
-
+---
 
 未完待续
 
